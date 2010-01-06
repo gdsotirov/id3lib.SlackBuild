@@ -1,11 +1,11 @@
 id3lib: id3lib (A library for reading/writing ID3 v1 and v2 tags)
 id3lib:
-id3lib: id3lib is a software library for reading, writing, and manipulating
-id3lib: ID3v2 tags.  Additionally it is possible to get some basic mp3 header
-id3lib: information like bitrate etc.
-id3lib:
-id3lib:
-id3lib:
-id3lib:
+id3lib: id3lib is an open-source, cross-platform software development library
+id3lib: for reading, writing, and manipulating ID3v1 and ID3v2 tags.  It is
+id3lib: an on-going project whose primary goals are full compliance with
+id3lib: the ID3v2 standard, portability across several platforms, and
+id3lib: providing a powerful and feature-rich API with a highly stable and
+id3lib: efficient implementation.
+id3lib
 id3lib:
 id3lib: Packaged by Georgi D. Sotirov <gdsotirov@dir.bg>
