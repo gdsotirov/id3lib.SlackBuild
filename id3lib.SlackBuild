@@ -17,14 +17,14 @@
 # along with this program; if not, write to the Free Software
 # Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 # 
-# $Id: id3lib.SlackBuild,v 1.4 2016/09/19 17:59:47 gsotirov Exp $
+# $Id: id3lib.SlackBuild,v 1.5 2016/10/09 08:28:22 gsotirov Exp $
 #
 
 . ../../slack-package.conf
 
 NAME=id3lib
 VERSION=3.8.3
-ARCH=${ARCH:-i486}
+ARCH=${ARCH:-i586}
 BUILD=${BUILD:-1}
 
 TMP=${TMP:-/tmp}
